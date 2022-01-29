@@ -16,6 +16,7 @@
 - Перейти в phpMyAdmin
 ```http://localhost/phpmyadmin```
 - Создать новую базу данных **bookcatalog**
+- Переименовать файл ```.env.example``` на ```.env```
 - Открыть папку проекта в терминале
 - Написать следующий код
 ```php artisan serve```
