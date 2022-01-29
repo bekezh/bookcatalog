@@ -1,4 +1,4 @@
-<h1>BookCatalogue</h1>
+<h1>BookCatalog</h1>
 
 ## Установка и настройка среды
 
