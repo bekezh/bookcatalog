@@ -10,7 +10,8 @@
 
 ## Активация проекта в локальной сети
 
-- Открыть XAMPP и запустить Apache Web Server и MySQL Database (***Проверить работу XAMPP можно перейдя по ссылке:*** ```http://localhost```)
+- Открыть XAMPP и запустить Apache Web Server и MySQL Database
+(***Проверить работу XAMPP можно перейдя по ссылке:*** ```http://localhost```)
 - Разархивировать ZIP-архив BookCatalog
 - Открыть папку проекта в терминале
 - Написать следующий код
