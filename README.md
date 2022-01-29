@@ -13,6 +13,9 @@
 - Открыть XAMPP и запустить Apache Web Server и MySQL Database <br>
 (***Проверить работу XAMPP можно перейдя по ссылке:*** ```http://localhost```)
 - Разархивировать ZIP-архив BookCatalog
+- Перейти в phpMyAdmin
+```http://localhost/phpmyadmin```
+- Создать новую базу данных **bookcatalog**
 - Открыть папку проекта в терминале
 - Написать следующий код
 ```php artisan serve```
