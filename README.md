@@ -13,7 +13,8 @@
 
 - Открыть XAMPP и запустить Apache Web Server и MySQL Database <br>
 (***Проверить работу XAMPP можно перейдя по ссылке:*** ```http://localhost```)
-- Разархивировать ZIP-архив BookCatalog
+- Разархивировать ZIP-файл BookCatalog
+- Добавить разархивированную папку в папку XAMPP -> htdocs (удалить все содержимое в этой папке, кроме разархивированной папки)
 - Перейти в phpMyAdmin
 ```http://localhost/phpmyadmin```
 - Создать базу данных **bookcatalog**
